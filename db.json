@@ -1,0 +1,102 @@
+{
+    "perros" : [
+        {
+          "id": 1,
+          "nombre": "Rocky",
+          "sexo": "macho",
+          "raza": "rotwailer",
+          "edad": "3 meses",
+          "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
+          "personalidad":"cariñoso, juegueton",
+          "historia":"Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
+          "imagen": "https://res.cloudinary.com/dprhfgujn/image/upload/v1702663748/Pets/Card_6_flwugy.png"
+        },
+
+        {
+            "id": 2,
+            "nombre": "Papi",
+            "sexo": "macho",
+            "raza": "chihuahua",
+            "edad": "2 meses",
+            "direccion": "4140 Parker Rd. Allentown,New Mexico 31134",
+            "personalidad":"inquieto",
+            "historia":"🐾 ¡Hola! Soy Papi, un chihuahua de dos meses lleno de amor y travesuras. Mi pequeño corazón late con emoción, buscando a mi familia perfecta. Soy curioso, juguetón y siempre listo para abrazos. ¿Me das un hogar lleno de cariño? 🏡💕",
+            "imagen": "https://res.cloudinary.com/dprhfgujn/image/upload/v1702663748/Pets/Card_5_pobgir.png"
+          },
+          {
+            "id": 3,
+            "nombre": "Pelusa",
+            "sexo": "Hembra",
+            "raza": "Bichon frise",
+            "edad": "3 meses",
+            "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
+            "personalidad":"cariñoso",
+            "historia":" Hola, soy Pelusa, una Bichon Frise llena de amor. Mi familia me ama, pero enfrentan cambios grandes y quieren asegurarse de que tenga el hogar perfecto. Soy dulce, juguetona y estoy lista para ser tu mejor amiga. ¿Quieres ser mi héroe y darme un hogar lleno de cariño? 🏠💖 ",
+            "imagen": "https://res.cloudinary.com/dprhfgujn/image/upload/v1702663748/Pets/Card_7_ths8ky.png"
+          
+          },
+          {
+            "id": 4,
+            "nombre": "Chester",
+            "sexo": "macho",
+            "raza": "Golden Retriver",
+            "edad": "3 meses",
+            "direccion": "4140 Parker Rd. Allentown,New Mexico 31134",
+            "personalidad":"inquieto, jugueton",
+            "historia":"Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
+            "imagen": "https://res.cloudinary.com/dprhfgujn/image/upload/v1702663747/Pets/Card_4_dyrbd5.png"
+          
+          }
+              
+
+    ],
+
+    "gatos" : [
+        {
+            "id": 1,
+            "nombre": "Matilde",
+            "sexo": "Hembra",
+            "raza": "British Shorthair",
+            "edad": "6 meses",
+            "direccion": "4140 Parker Rd. Allentown,New Mexico 31134",
+            "personalidad":"juegueton",
+            "historia":"Matilde es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
+            "imagen":"https://res.cloudinary.com/dprhfgujn/image/upload/v1702663748/Pets/Card_qn4rhg.png"
+        },
+        {
+            "id": 2,
+            "nombre": "Pelusa",
+            "sexo": "Hembra",
+            "raza": "Birmano",
+            "edad": "1 año",
+            "direccion": "4140 Parker Rd. Allentown,New Mexico 31134",
+            "personalidad":"tierno, inquieto",
+            "historia":"Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
+            "imagen": "https://res.cloudinary.com/dprhfgujn/image/upload/v1702663747/Pets/Card_1_gc7dkg.png"
+          },
+          {
+            "id": 3,
+            "nombre": "Kity",
+            "sexo": "Hembra",
+            "raza": "Bombay",
+            "edad": "10 meses",
+            "direccion": "4140 Parker Rd. Allentown,New Mexico 31134",
+            "personalidad":"tierno",
+            "historia":"Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
+            "imagen": "https://res.cloudinary.com/dprhfgujn/image/upload/v1702663747/Pets/Card_2_wnvzbu.png"
+          },
+          {
+            "id": 4,
+            "nombre": "Bombom",
+            "sexo": "Hembra",
+            "raza": "Gato Americano",
+            "edad": "2 años",
+            "direccion": "4140 Parker Rd. Allentown,New Mexico 31134",
+            "personalidad":"juegueton",
+            "historia":"Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
+             "imagen": "https://res.cloudinary.com/dprhfgujn/image/upload/v1702663747/Pets/Card_3_kqxq0h.png"
+          }
+              
+              
+    ]
+}
